@@ -1,3 +1,3 @@
-package 'rock-runtime-010' do
+package 'rock-runtime-node010' do
   action :install
 end

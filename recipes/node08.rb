@@ -1,3 +1,3 @@
-package 'rock-runtime-08' do
+package 'rock-runtime-node08' do
   action :install
 end
