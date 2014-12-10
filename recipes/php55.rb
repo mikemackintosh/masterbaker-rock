@@ -1,3 +1,1 @@
-package 'rock-runtime-php55' do
-  action :install
-end
+homebrew_package 'rock-runtime-php55'
