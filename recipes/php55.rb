@@ -1,3 +1,3 @@
 package 'rock-runtime-php55' do
-  provider Chef::Provider::Package::Homebrew
+  action :install
 end
